@@ -23,9 +23,9 @@
 
 https://xxxxx
 
-## GPT生成
+## 语料清单
 
-[问题表](./question/README.md)
+[语料清单](./question/README.md)
 
 ## GPT API 中转购买
 [GPT API 额度购买(微信)](https://xxxx)
