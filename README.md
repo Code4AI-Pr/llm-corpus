@@ -21,14 +21,11 @@
 
 项目合作洽谈请联系微信
 
-https://xxxxx
 
 ## 语料清单
 
-[语料清单](./question/README.md)
 
 ## GPT API 中转购买
-[GPT API 额度购买(微信)](https://xxxx)
 
 
 ## 更新
